@@ -1,0 +1,10 @@
+{
+  "name": "tg-campaign-backend",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "dependencies": {
+    "@upstash/redis": "^1.28.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
